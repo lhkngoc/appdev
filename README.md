@@ -48,7 +48,7 @@ List of Contents
 	sound.h			contains constant definitions and function declarations
 				of sound.c
 	main.c			contains main functions to run sound.c
-	puttysize.php	contains functions to read and write post data from main.c
+	puttysize.php		contains functions to read and write post data from main.c
 				and make file to store data
 
 5. Copyright and Licensing information
