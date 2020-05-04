@@ -37,13 +37,24 @@ List of Contents
 	README.md		this file.
 	screen.c		contains screen manipulation functions
 	screen.h		contains constant definitions and function declarations
-					of screen.c
+				of screen.c
 	comm.c			contains functions to interact with web
 	comm.h			contains constant definitions and function declarations
-					of comm.c
-	testscreen.c	contains main functions to run program on screen
+				of comm.c
+	testscreen.c		contains main functions to run program on screen
 	testcurl.c		contains main functions to implement curl
-	makefile		contains functions to compile file	
+	makefile		contains functions to compile file
+	sound.c			contains functions to read .wav file
+	sound.h			contains constant definitions and function declarations
+				of sound.c
+	main.c			contains main functions to run sound.c
+	puttysize.php	contains functions to read and write post data from main.c
+				and make file to store data
 
 5. Copyright and Licensing information
 	This application follows GPLv2 copyright.
+
+6. Contact information
+	Email: ngocle291100@gmail.com
+
+7. Credits and acknowledgements
